@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thirishwe-sin&label=Profile%20views&color=0e75b6&style=flat" alt="thirishwe-sin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thirishwe-sin" alt="thirishwe-sin" /></a> </p>
-
 - 🌱 I’m currently learning **React Native, PHP, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1j8Q_KdCPiVKRp0j8Hz98nmw1xwNj6E9w/view?usp=sharing](https://drive.google.com/file/d/1j8Q_KdCPiVKRp0j8Hz98nmw1xwNj6E9w/view?usp=sharing)
