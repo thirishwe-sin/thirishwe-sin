@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thiri Shwe Sin</h1>
-<h3 align="center">A passionate frontend developer from Myanmar</h3>
+<h3 align="center">A passionate Full-Stack developer from Myanmar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thirishwe-sin&label=Profile%20views&color=0e75b6&style=flat" alt="thirishwe-sin" /> </p>
 
-- 🌱 I’m currently learning **React Native, PHP, Laravel**
+- 🌱 I’m currently learning **React Native, PHP, Laravel, NextJs, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1j8Q_KdCPiVKRp0j8Hz98nmw1xwNj6E9w/view?usp=sharing](https://drive.google.com/file/d/1j8Q_KdCPiVKRp0j8Hz98nmw1xwNj6E9w/view?usp=sharing)
 
