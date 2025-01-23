@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React Native, PHP, Laravel, NextJs, NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1j8Q_KdCPiVKRp0j8Hz98nmw1xwNj6E9w/view?usp=sharing](https://drive.google.com/file/d/1j8Q_KdCPiVKRp0j8Hz98nmw1xwNj6E9w/view?usp=sharing)
-
 - 💬 Ask me about **react, laravel**
 
 - 📫 How to reach me **thirishwesinsin@gmail.com**
